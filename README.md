@@ -50,5 +50,7 @@ oder .jar Datei auführen ( derOrder Icons
 - 🎮 Einfaches Memory-Spiel
 - 🎯 Beliebige Spielfeldgröße (Variable Felder in Memory.java)
 
+![Gameplay](docs/Screenshot.png)
+
 ## Lizenz:
 Dieses Projekt steht unter der MIT Lizenz
